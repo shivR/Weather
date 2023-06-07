@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Wind"; ObjectID = "2Rq-Cz-K37"; */
+"2Rq-Cz-K37.text" = "Wind";
+
+/* Class = "UILabel"; text = "Probability of Precipitation"; ObjectID = "8HA-9x-geQ"; */
+"8HA-9x-geQ.text" = "Probability of Precipitation";
+
+/* Class = "UILabel"; text = "Wind Gusts"; ObjectID = "9Gs-yG-N7b"; */
+"9Gs-yG-N7b.text" = "Wind Gusts";
+
+/* Class = "UILabel"; text = "Precipitation"; ObjectID = "Dp6-nX-FJR"; */
+"Dp6-nX-FJR.text" = "Precipitation";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MdD-ag-Hl4"; */
+"MdD-ag-Hl4.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ong-fT-jDd"; */
+"Ong-fT-jDd.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QAP-I1-U6w"; */
+"QAP-I1-U6w.text" = "Label";
+
+/* Class = "UILabel"; text = "29°"; ObjectID = "Szw-gi-QZw"; */
+"Szw-gi-QZw.text" = "29°";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bMY-MI-1N5"; */
+"bMY-MI-1N5.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bml-Ix-xe7"; */
+"bml-Ix-xe7.text" = "Label";
+
+/* Class = "UILabel"; text = "Cloud Cover"; ObjectID = "hJ7-bG-WLX"; */
+"hJ7-bG-WLX.text" = "Cloud Cover";
+
+/* Class = "UILabel"; text = "RealFeel Shade™ 28°\n"; ObjectID = "te1-QJ-AGa"; */
+"te1-QJ-AGa.text" = "RealFeel Shade™ 28°\n";
+
+/* Class = "UILabel"; text = "RealFeel® 33°\n"; ObjectID = "yZf-lt-sv1"; */
+"yZf-lt-sv1.text" = "RealFeel® 33°\n";

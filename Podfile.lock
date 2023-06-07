@@ -1,0 +1,32 @@
+PODS:
+  - MBProgressHUD (1.2.0)
+  - Nimble (12.0.0)
+  - Quick (7.0.0)
+  - SwiftIcons (3.0)
+  - SwiftLint (0.50.3)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 1.2.0)
+  - Nimble
+  - Quick
+  - SwiftIcons (~> 3.0)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+    - Nimble
+    - Quick
+    - SwiftIcons
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Nimble: 02a4990866e51868303a466970cd1c81bb84a192
+  Quick: f57e9c1acc5ff48d2b04e23a17b4892eda5a3b09
+  SwiftIcons: 3b748e57d9eee0c7c8d3bdbf2d742c0b1b4c6172
+  SwiftLint: 77f7cb2b9bb81ab4a12fcc86448ba3f11afa50c6
+
+PODFILE CHECKSUM: ab523facda6141b19cf80cc6584a3cb68babca65
+
+COCOAPODS: 1.11.3

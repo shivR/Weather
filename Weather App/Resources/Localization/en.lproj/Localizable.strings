@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Weather App
+
+  Created by Shiv Vaishnav on 02/06/2023.
+  
+*/
+
+"RealFeel®" = "RealFeel®";
+"RealFeel Shade™" = "RealFeel Shade™";
+"Error" = "Error";
+"OK" = "OK";
